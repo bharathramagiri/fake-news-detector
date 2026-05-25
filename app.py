@@ -75,4 +75,4 @@ if analyze_button:
                 st.write("> *This text matches the linguistic patterns of credible journalism found in our training dataset.*")
             else:
                 st.error("🚨 **Likely FAKE News**")
-                st.write("> *This text exhibits sensationalism or specific word patterns commonly found in fabricated articles.*")s
+                st.write("> *This text exhibits sensationalism or specific word patterns commonly found in fabricated articles.*")
